@@ -8,6 +8,8 @@ authors:
     affiliation: "Konark Institute of Science and Technology (KIST), Jatni, Khordha, Odisha, India"
   - family-names: Das
     given-names: Manoranjan
+doi: 10.5281/zenodo.22994483
+repository-code: "https://github.com/csmkist/xc-adaguide"
 version: "1.0.0"
 date-released: "2026-09-27"
 license: MIT

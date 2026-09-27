@@ -2,7 +2,9 @@
 
 Adaptive differential evolution with a post-run consistency test between global (Sobol total-order) and local (forward-difference) variable importance.
 
-Code and results for the paper submitted to *Discover Computing*. Archived release: DOI to be added (`10.5281/zenodo.XXXXXXX`).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22994483.svg)](https://doi.org/10.5281/zenodo.22994483)
+
+Code and results for the paper submitted to *Discover Computing*. Archived release: https://doi.org/10.5281/zenodo.22994483
 
 ## Contents
 
