@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "XC-AdaGuiDE: global-local sensitivity consistency test in adaptive differential evolution (code and results)"
+type: software
+authors:
+  - family-names: Mohanty
+    given-names: Chandra Sekhar
+    affiliation: "Konark Institute of Science and Technology (KIST), Jatni, Khordha, Odisha, India"
+  - family-names: Das
+    given-names: Manoranjan
+version: "1.0.0"
+date-released: "2026-09-27"
+license: MIT
+keywords:
+  - differential evolution
+  - Sobol indices
+  - global sensitivity analysis
+  - explainable optimization
+  - PID tuning
+  - magnetic levitation
+  - quadrotor
+abstract: "Code, Colab notebooks and result archives for XC-AdaGuiDE, an adaptive differential evolution method with a post-run consistency test between Sobol total-order indices and forward-difference local importance. Includes the benchmark study, parameter sweeps, noise and block-rotation experiments, and the maglev and quadrotor PID case studies."
